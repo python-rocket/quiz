@@ -24,4 +24,4 @@ def print_function(category, round_num=None, total_rounds=None, score=None):
     elif category == "exit":
         print("Exiting program.")
     elif category == "score":
-        print(f"Your ranking is: {score}")
+        print(f"Your score is: {score}")
